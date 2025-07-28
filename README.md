@@ -41,6 +41,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyaSalian23&theme=tokyonight" />
 </p>
 
+![Profile views](https://komarev.com/ghpvc/?username=AdithyaSalian23&color=blue)
+
 ---
 
 ### 🔗 Let's Connect
